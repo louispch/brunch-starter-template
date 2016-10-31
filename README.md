@@ -4,5 +4,4 @@
 
 Install brunch
 
-```npm install -g brunch
-```
+`npm install -g brunch`
